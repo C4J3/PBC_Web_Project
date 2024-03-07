@@ -1,0 +1,25 @@
+body
+{
+    background-color: rgb(32, 32, 32);
+    color: rgb(209, 209, 209);
+}
+h1
+{
+    color: rgb(30, 134, 47);
+    text-align: center;
+}
+.worldMap
+{
+    width: 500px;
+    height: 500px;
+    padding: 10px;
+    margin: 10px;
+}
+#gen3kanto
+{
+    background-image: url("assets/KantoBackground.png");
+}
+#gen3hoenn
+{
+    background-image: url("assets/HoennBackground.png");
+}
